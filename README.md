@@ -10,6 +10,7 @@ Each folder contains a separate project with its own code and (sometimes) additi
 📂 Projects Included
 
 * 🔠 Text Encoder/Decoder → A menu-driven Python program that encodes/decodes text, supports symbols, and handles errors. (Numbers support coming soon!)
+
   more projects to be added soon...
   
 ---
